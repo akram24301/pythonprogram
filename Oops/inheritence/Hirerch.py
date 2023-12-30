@@ -15,4 +15,3 @@ class bmw(car):
 
 c1=supra("supra mk4",10,50000,"black")
 c2=bmw("bmw m4",15,5000000,"white")
-    
